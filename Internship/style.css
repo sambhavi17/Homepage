@@ -1,0 +1,96 @@
+body{
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', sans-serif;
+
+}
+.Sam1 {
+    text-align: right;
+    color: #f3fdf3;
+     margin: 20px 50px 50px 10px;
+     padding: 20px 20px 25px 10px;
+     text-decoration: none;
+    
+
+    
+}
+.mi {
+    text-decoration: none;
+    font-size: 40px;
+    color: #087260;
+    
+    
+    margin: 20px 300px 50px 10px;
+    padding: 20px 20px 25px 10px;
+
+}
+
+.Sam2 {
+    text-align: right;
+    color: #f3fdf3;
+    border-style: none;
+    
+    
+}
+.Sam3 {
+    text-align: center;
+    color: #f3fdf3;
+    font-size: 40px;
+    margin: 20px 20px 20px 20px;
+    padding: 25px 25px 25px 25px;
+
+     
+      
+}
+.Sam4 {
+    text-align: center;
+    color: #f3fdf3;
+    
+    
+}
+.watch {
+    color: white;
+    background-color: rgb(8, 114, 96);
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+   margin: 2px 1px;
+   cursor: pointer;
+   text-decoration: none;    
+
+}
+.us {
+    color: white;
+     padding: 15px 32px;
+     text-align: center;
+     font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border: 1px solid #e7e7e7;
+    text-decoration: none;
+}
+.Sam5 {
+    text-align: center;
+    color: #f3fdf3;
+    border-style: solid;
+    margin: 50px 50px 50px 50px;
+    padding: 25px 25px 25px 25px
+    
+
+
+}
+.menu {
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     font-size: 16px;
+     margin: 2px 1px;
+     cursor: pointer;
+     border: 1px solid #e7e7e7;
+     text-decoration: none;
+}
+.menu:hover {
+    background-color: rgb(8, 114, 96) ;
+}
+
